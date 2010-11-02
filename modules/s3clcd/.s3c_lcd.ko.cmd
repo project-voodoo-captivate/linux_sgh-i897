@@ -1,0 +1,1 @@
+cmd_/home/jw48.jung/Kernel/modules/s3clcd/s3c_lcd.ko := /home/jw48.jung/Kernel/../arm-2009q3/bin//arm-none-eabi-ld -EL -r   -o /home/jw48.jung/Kernel/modules/s3clcd/s3c_lcd.ko /home/jw48.jung/Kernel/modules/s3clcd/s3c_lcd.o /home/jw48.jung/Kernel/modules/s3clcd/s3c_lcd.mod.o

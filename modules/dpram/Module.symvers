@@ -1,0 +1,5 @@
+0x00000000	multipdp_rx_noti_regi	/home/jw48.jung/Kernel/modules/dpram/dpram	EXPORT_SYMBOL
+0x00000000	multipdp_buf_copy	/home/jw48.jung/Kernel/modules/dpram/dpram	EXPORT_SYMBOL
+0x00000000	multipdp_dump	/home/jw48.jung/Kernel/modules/dpram/dpram	EXPORT_SYMBOL
+0x00000000	yhexdump	/home/jw48.jung/Kernel/modules/dpram/dpram	EXPORT_SYMBOL
+0x00000000	multipdp_write	/home/jw48.jung/Kernel/modules/dpram/dpram	EXPORT_SYMBOL
